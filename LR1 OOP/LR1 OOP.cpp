@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Для компиляторов Windows может потребоваться определение M_PI
+// Определение M_PI
 #ifndef M_PI
 #define M_PI 3.14159265358979323846
 #endif
